@@ -1,0 +1,4 @@
+REGISTER = '1'
+SEARCH = '2'
+DOWNLOAD = '3'
+PORT = 6000
